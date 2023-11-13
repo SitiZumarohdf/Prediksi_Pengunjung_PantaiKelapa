@@ -1,0 +1,2 @@
+# Prediksi_Pengunjung_PantaiKelapa
+PREDIKSI JUMLAH PENGUNJUNG WISATA PANTAI  DENGAN METODE  DOUBLE  EXPONENTIAL SMOOTHING  (Studi Kasus Pantai Kelapa Tuban)
